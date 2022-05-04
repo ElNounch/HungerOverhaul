@@ -1,7 +1,7 @@
 // Add your dependencies here
 
 dependencies {
-    compile('com.github.GTNewHorizons:AppleCore:3.1.9:dev')
+    compile("com.github.ElNounch:AppleCore:JitPackFix-SNAPSHOT:dev")
 
     compileOnly('com.github.GTNewHorizons:Natura:2.4.9:dev')
     compileOnly('com.github.GTNewHorizons:TinkersConstruct:1.9.0.13-GTNH:dev')
